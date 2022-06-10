@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 - Estudando Html e Css
-- contate-me pelo linkedin: Vitormirabelli
-
 <div>
   <a href="https://github.com/Mirabellis">
     <img height="180em" width="48%"  src="https://github-readme-stats.vercel.app/api?username=mirabellis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
