@@ -20,5 +20,5 @@
 </div>
   
   <div>
-    <img  alt="Jirogif" width="100%" style="border-radius:50px;" src="https://i.pinimg.com/originals/f2/68/9c/f2689cb080dcfbfd24a21b4cb1034b08.gif">
+    <img  alt="Jirogif" width="100%" style="border-radius:50px;" src="[https://i.pinimg.com/originals/f2/68/9c/f2689cb080dcfbfd24a21b4cb1034b08.gif](https://i.redd.it/nk6xcydhuoy81.gif)https://i.redd.it/nk6xcydhuoy81.gif">
   </div>
