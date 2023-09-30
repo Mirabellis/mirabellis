@@ -20,5 +20,5 @@
 </div>
   
   <div>
-    <img  alt="Jirogif" width="100%" style="border-radius:50px;" src="https://64.media.tumblr.com/07b7589c8b2ebc76fd0edc540f88ad93/tumblr_mtvaxnelVk1shdhdjo2_500.gif">
+    <img  alt="Jirogif" width="100%" style="border-radius:50px;" src="https://i.makeagif.com/media/8-03-2016/La0gQh.mp4">
   </div>
